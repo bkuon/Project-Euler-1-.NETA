@@ -1,0 +1,15 @@
+/Users/brandonkuon/Documents/C# Folder/Euler_1/bin/Debug/net5.0/Euler_1.deps.json
+/Users/brandonkuon/Documents/C# Folder/Euler_1/bin/Debug/net5.0/Euler_1.runtimeconfig.json
+/Users/brandonkuon/Documents/C# Folder/Euler_1/bin/Debug/net5.0/Euler_1.runtimeconfig.dev.json
+/Users/brandonkuon/Documents/C# Folder/Euler_1/bin/Debug/net5.0/Euler_1.dll
+/Users/brandonkuon/Documents/C# Folder/Euler_1/bin/Debug/net5.0/ref/Euler_1.dll
+/Users/brandonkuon/Documents/C# Folder/Euler_1/bin/Debug/net5.0/Euler_1.pdb
+/Users/brandonkuon/Documents/C# Folder/Euler_1/obj/Debug/net5.0/Euler_1.csproj.AssemblyReference.cache
+/Users/brandonkuon/Documents/C# Folder/Euler_1/obj/Debug/net5.0/Euler_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonkuon/Documents/C# Folder/Euler_1/obj/Debug/net5.0/Euler_1.AssemblyInfoInputs.cache
+/Users/brandonkuon/Documents/C# Folder/Euler_1/obj/Debug/net5.0/Euler_1.AssemblyInfo.cs
+/Users/brandonkuon/Documents/C# Folder/Euler_1/obj/Debug/net5.0/Euler_1.csproj.CoreCompileInputs.cache
+/Users/brandonkuon/Documents/C# Folder/Euler_1/obj/Debug/net5.0/Euler_1.dll
+/Users/brandonkuon/Documents/C# Folder/Euler_1/obj/Debug/net5.0/ref/Euler_1.dll
+/Users/brandonkuon/Documents/C# Folder/Euler_1/obj/Debug/net5.0/Euler_1.pdb
+/Users/brandonkuon/Documents/C# Folder/Euler_1/obj/Debug/net5.0/Euler_1.genruntimeconfig.cache
